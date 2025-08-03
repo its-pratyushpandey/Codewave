@@ -2,9 +2,18 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/its-pratyushpandey/Codewave/main/public/logo.png" width="120" alt="Code Craft Logo" />
+<!-- Icon Bar -->
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="32" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="32" title="Tailwind" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clerk/clerk-original.svg" width="32" title="Clerk" />
+  <img src="https://raw.githubusercontent.com/convex-dev/convex-brand/main/convex-logo.svg" width="32" title="Convex" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="32" title="Vercel" />
+</span>
 
-<br />
+<br/><br/>
 
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
@@ -13,7 +22,7 @@
 
 ---
 
-<h2><img src="https://raw.githubusercontent.com/its-pratyushpandey/Codewave/main/public/rocket.svg" width="28" /> Modern, Professional Online Code Editor</h2>
+<h2>🧑‍💻 Modern, Professional Online Code Editor</h2>
 
 **Multi-language. Real-time Collaboration. Professional Features.**
 
@@ -24,10 +33,6 @@
 ---
 
 ## ✨ Features
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/its-pratyushpandey/Codewave/main/docs/screenshots/editor.png" width="80%" alt="Editor Screenshot" />
-</div>
 
 ### 🎯 Core
 - 💻 **Multi-Language Execution** — 10+ languages (JS, Python, Java, C++, Go, Rust, Swift, C#, Ruby, PHP)
@@ -51,18 +56,16 @@
 
 ## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/its-pratyushpandey/Codewave/main/public/nextjs.svg" width="32"/><br/>Next.js 15</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/its-pratyushpandey/Codewave/main/public/typescript.svg" width="32"/><br/>TypeScript</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/its-pratyushpandey/Codewave/main/public/tailwind.svg" width="32"/><br/>Tailwind CSS</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/its-pratyushpandey/Codewave/main/public/monaco.svg" width="32"/><br/>Monaco Editor</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/its-pratyushpandey/Codewave/main/public/clerk.svg" width="32"/><br/>Clerk Auth</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/its-pratyushpandey/Codewave/main/public/convex.svg" width="32"/><br/>Convex DB</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/its-pratyushpandey/Codewave/main/public/piston.svg" width="32"/><br/>Piston API</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/its-pratyushpandey/Codewave/main/public/vercel.svg" width="32"/><br/>Vercel</td>
-  </tr>
-</table>
+| Category         | Technology & Icon |
+|------------------|------------------|
+| **Frontend**     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="22" /> Next.js 15, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22" /> React 18, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="22" /> TypeScript |
+| **Styling**      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="22" /> Tailwind CSS, Framer Motion |
+| **Editor**       | Monaco Editor (VS Code) |
+| **Authentication** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clerk/clerk-original.svg" width="22" /> Clerk |
+| **Database**     | <img src="https://raw.githubusercontent.com/convex-dev/convex-brand/main/convex-logo.svg" width="22" /> Convex (Real-time) |
+| **Code Execution** | Piston API |
+| **Deployment**   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="22" /> Vercel |
+| **State Management** | Zustand |
 
 ---
 
@@ -217,9 +220,7 @@ MIT — see [LICENSE](LICENSE).
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/its-pratyushpandey/Codewave/main/public/heart.svg" width="24" />  
-**Made with ❤️ by [Pratyush Pandey](https://github.com/its-pratyushpandey)**
-
+❤️ Made by [Pratyush Pandey](https://github.com/its-pratyushpandey)  
 If this project helped you, please ⭐ star the repository!
 
 [⬆ Back to Top](#-code-craft---saas-code-editor)
