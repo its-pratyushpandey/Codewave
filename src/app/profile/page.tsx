@@ -51,6 +51,7 @@ function ProfilePage() {
     { initialNumItems: 5 }
   );
 
+  
   const userData = useQuery(api.users.getUser, { userId: user?.id ?? "" });
 
   const handleLoadMore = () => {
@@ -70,6 +71,7 @@ function ProfilePage() {
           <ProfileHeader userStats={userStats} userData={userData} user={user!} />
         )}
 
+        
         {(userStats === undefined || !isLoaded) && <ProfileHeaderSkeleton />}
 
         {/* Main content */}
@@ -180,6 +182,7 @@ function ProfilePage() {
                     </div>
                   ))}
 
+                  
                   {isLoadingExecutions ? (
                     <div className="text-center py-12">
                       <Loader2 className="w-12 h-12 text-gray-600 mx-auto mb-4 animate-spin" />
@@ -272,6 +275,7 @@ function ProfilePage() {
                       </Link>
                     </div>
                   ))}
+                  
 
                   {(!starredSnippets || starredSnippets.length === 0) && (
                     <div className="col-span-full text-center py-12">
