@@ -18,6 +18,8 @@ async function PricingPage() {
     userId: user?.id || "",
   });
 
+
+  
   if (convexUser?.isPro) return <ProPlanView />;
 
   return (
@@ -128,6 +130,7 @@ async function PricingPage() {
                     <UpgradeButton />
                   </SignedIn>
 
+                  
                   <SignedOut>
                     <LoginButton />
                   </SignedOut>
