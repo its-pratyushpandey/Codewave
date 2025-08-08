@@ -55,6 +55,7 @@ function SetupInstructions() {
               </ul>
             </div>
 
+            
             <div className="bg-blue-900/20 border border-blue-600 rounded-lg p-4">
               <h3 className="text-blue-400 font-semibold mb-2">📁 Environment File</h3>
               <p className="text-gray-300 text-sm mb-2">Update your .env.local file with valid keys:</p>
