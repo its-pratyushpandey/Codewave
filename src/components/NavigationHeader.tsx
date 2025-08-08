@@ -36,6 +36,7 @@ function NavigationHeader() {
               </div>
             </Link>
 
+            
             {/* snippets Link */}
             <Link
               href="/snippets"
