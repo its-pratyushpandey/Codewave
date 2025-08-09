@@ -3,8 +3,6 @@ import { LANGUAGE_CONFIG } from "@/app/(root)/_constants";
 import { create } from "zustand";
 import { editor } from "monaco-editor";
 
-
-
 const getInitialState = () => {
   // if we're on the server, return default values
   if (typeof window === "undefined") {
