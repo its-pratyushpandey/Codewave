@@ -1,12 +1,11 @@
 import { editor } from "monaco-editor";
 import { Id } from "../../convex/_generated/dataModel";
-
-
 export interface Theme {
   id: string;
   label: string;
   color: string;
 }
+
 
 
 
