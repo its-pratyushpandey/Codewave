@@ -4,6 +4,8 @@ import { Blocks, Code2, Sparkles } from "lucide-react";
 import Link from "next/link";
 
 
+
+
 function NavigationHeader() {
   return (
     <div className="sticky top-0 z-50 w-full border-b border-gray-800/50 bg-gray-950/80 backdrop-blur-xl backdrop-saturate-150">
