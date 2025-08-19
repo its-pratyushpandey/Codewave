@@ -5,6 +5,7 @@ import { api } from "../../convex/_generated/api";
 import { Star } from "lucide-react";
 
 
+
 function StarButton({ snippetId }: { snippetId: Id<"snippets"> }) {
   const { isSignedIn } = useAuth();
 
