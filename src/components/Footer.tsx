@@ -1,8 +1,5 @@
 import { Blocks } from "lucide-react";
 import Link from "next/link";
-
-
-
 function Footer() {
   return (
     <footer className="relative border-t border-gray-800/50 mt-auto">
