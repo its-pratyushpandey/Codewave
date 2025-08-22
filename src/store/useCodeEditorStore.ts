@@ -13,6 +13,7 @@ const getInitialState = () => {
     };
   }
 
+  
   // if we're on the client, return values from local storage bc localStorage is a browser API.
   const savedLanguage = localStorage.getItem("editor-language") || "javascript";
   const savedTheme = localStorage.getItem("editor-theme") || "vs-dark";
